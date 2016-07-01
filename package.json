@@ -1,0 +1,24 @@
+{
+  "name": "language_hunt",
+  "version": "1.0.0",
+  "description": "Language Bingo Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxisrose/language_hunt.git"
+  },
+  "author": "Max Rose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxisrose/language_hunt/issues"
+  },
+  "homepage": "https://github.com/maxisrose/language_hunt#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.5.3"
+  }
+}
